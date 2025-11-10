@@ -14,7 +14,10 @@ Additionally, download the sample .csv files that are labeled 'Zonar' and 'RTA' 
      ```  
      or run the compiled `.exe` file.  
 
-2. **Enter your facility number** when prompted (e.g., `3` for Facility 3).  
+2. **Enter the facility number** when prompted.
+   
+   Valid Facility ID Numbers (actual facility names removed for privacy): 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 14
+    
 3. **Select your CSV files** when the file dialogs appear:  
    - First select the **RTA** mileage file.  
    - Then select the **Zonar** mileage file.  
@@ -58,8 +61,8 @@ The generated file contains the aligned data and mileage differences:
 
 | Asset ID | RTA Odometer | Zonar Odometer | Mileage Difference |
 |-----------|---------------|----------------|--------------------|
-| CB0571    | 2333          | 2300           | 33                 |
-| CB1154    | 2917          | 3000           | -83                |
+| 0571    | 2333          | 2300           | 33                 |
+| 1154    | 2917          | 3000           | -83                |
 
 At the bottom of the CSV, a summary is included:
 
