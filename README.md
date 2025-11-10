@@ -12,7 +12,6 @@ Additionally, download the sample .csv files that are labeled 'Zonar' and 'RTA' 
      ```bash
      python Mileage_Difference_Calculator.py
      ```  
-     or run the compiled `.exe` file.  
 
 2. **Enter the facility number** when prompted.
    
