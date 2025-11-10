@@ -1,6 +1,6 @@
 # Odometer-Database-Comparison
 A Python-based tool for comparing odometer readings between RTA and Zonar vehicle mileage reports.  
-Disclaimer: Functionality still being added!
+**Disclaimer:** Functionality still being added!
 
 ## Steps for Running the Program  
 Please download the `Mileage_Difference_Calculator.py` and the 'subprograms' folder file under “Project Items.”
