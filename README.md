@@ -64,7 +64,7 @@ The generated file contains the aligned data and mileage differences:
 | 0571    | 2333          | 2300           | 33                 |
 | 1154    | 2917          | 3000           | -83                |
 
-At the bottom of the CSV, a summary is included:
+At the bottom of the CSV, a summary is included showing mismatching assets and total matching assets.
 
 ## Key Features  
 
@@ -88,7 +88,7 @@ At the bottom of the CSV, a summary is included:
 - **Libraries:**  
   - `pandas`  
   - `tkinter` (included with Python)  
-  - `sys`, `time`, `os`  
+  - `sys`, `time` (used to demonstrate flow to user), `os`  
 
 To install dependencies:  
 ```bash
