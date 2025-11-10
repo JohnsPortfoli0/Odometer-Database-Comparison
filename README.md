@@ -4,7 +4,8 @@ A Python-based tool for comparing odometer readings between RTA and Zonar vehicl
 
 ## Steps for Running the Program  
 Please download the `Mileage_Difference_Calculator.py` and the 'subprograms' folder file under “Project Items.”
-Additionally, download the sample .csv files that are labeled 'Zonar' and 'RTA' (these are necessary).
+Additionally, download the sample .csv files that are labeled 'Zonar' and 'RTA' (these are necessary).  
+Mileage Comparison Sheet - Facility 3.csv is a sample of what the output results will look like!
 
 1. **Run the program**  
    - Open a terminal or command prompt in the same directory as the script.  
@@ -22,6 +23,7 @@ Additionally, download the sample .csv files that are labeled 'Zonar' and 'RTA' 
    - Then select the **Zonar** mileage file.  
 4. The program automatically performs the comparison and opens a **Save As** dialog for the output file.  
 5. Choose a save location. The output file will be named: "Mileage Comparison Sheet - Facility X"
+6. Open the newly created .csv and observe results. NOTE: If Excel asks if you want to convert, please select the 'x' in the top right of the prompt, otherwise the formatting messes up.
 
 ## Script Explanation and Flow  
 
